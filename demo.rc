@@ -1,0 +1,20 @@
+ICONHRIS	ICON		.\resources\employee.ico
+pictSplash   BITMAP		.\resources\demo.bmp
+pictNew      BITMAP		.\resources\new.bmp
+pictOpen     BITMAP		.\resources\open.bmp
+
+pictFirst   BITMAP	.\resources\go_first.bmp
+pictPrev 	BITMAP 	.\resources\go_prev.bmp
+pictNext 	BITMAP 	.\resources\go_next.bmp
+pictLast 	BITMAP 	.\resources\go_last.bmp
+pictAdd 	BITMAP 	.\resources\edit_new.bmp
+pictEdit 	BITMAP 	.\resources\edit_edit.bmp
+pictDelete 	BITMAP 	.\resources\edit_delete.bmp
+pictOk 		BITMAP 	.\resources\ok.bmp
+pictCancel 	BITMAP 	.\resources\cancel.bmp
+pictPrint 	BITMAP 	.\resources\edit_print.bmp
+pictExit 	BITMAP 	.\resources\edit_close.bmp
+
+pictAddress BITMAP 	.\resources\address.bmp
+
+		   
