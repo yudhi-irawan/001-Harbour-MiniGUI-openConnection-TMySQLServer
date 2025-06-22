@@ -1,9 +1,15 @@
-# 001-Harbour-MiniGUI-openConnection-TMySQLServer
+<h2>📫 001-Harbour-MiniGUI-openConnection-TMySQLServer</h2>
+
+
+ 💞️💞️💞️<span class="font-weight-bold">Prepare | Download | Action</span>💞️💞️💞️
+<br>
+<br><span class="font-weight-bold">visit to: </span>
+<i>	
+<a href="https://www.hmgextended.com/download.html">https://www.hmgextended.com/download.html</a>
+<br>🌱🌱🌱<br>
+</i>
 
 <pre>
-
-visit to:
-https://www.hmgextended.com/download.html
 
 download Current version Harbour+MiniGUI
 --> hmg-25.06-setup.zip
@@ -27,4 +33,10 @@ compile.bat
 </pre>
 
 
+<br><br>
+ 
+ 
+ Thanks you. 
+
+ 👋 👀 🌱 💞️ 📫 
 
