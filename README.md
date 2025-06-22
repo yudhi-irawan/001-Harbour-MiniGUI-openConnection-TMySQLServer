@@ -16,7 +16,7 @@ install Borland at c:\Borland\BCC58
 create directory	: c:\git_repo\
 goto		        : c:\git_repo\
 run CMD
-c:\git_repo\https://github.com/yudhi-irawan/001-Harbour-MiniGUI-openConnection-TMySQLServer.git
+c:\git_repo\git clone https://github.com/yudhi-irawan/001-Harbour-MiniGUI-openConnection-TMySQLServer.git
 c:\git_repo\cd 001-Harbour-MiniGUI-openConnection-TMySQLServer
 dir
 
