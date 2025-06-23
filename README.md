@@ -25,7 +25,7 @@ database-1: mcg_db (utf8mb4_general_ci)
 database-2: laravel (utf8mb4_general_ci)
 
 user: root (optional for demo)
-pass: <empty> (optional for demo)
+pass: -empty- (optional for demo)
 
 Create table and insert data:
 -open phpmyadmin
