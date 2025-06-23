@@ -3,6 +3,32 @@
 
  💞️💞️💞️<span class="font-weight-bold">Prepare | Download | Action</span>💞️💞️💞️
 <br>
+<br><span class="font-weight-bold">download xampp for windows: </span>
+<i>	
+<a href="https://www.apachefriends.org/download.html">https://www.apachefriends.org/download.html</a>
+<br>🌱🌱🌱<br>
+</i>
+<pre>
+phpMyAdmin edit:
+c:\xampp\phpMyAdmin\config.inc.php
+
+/* Authentication type and info */
+$cfg['Servers'][$i]['auth_type'] = 'config';
+$cfg['Servers'][$i]['user'] = 'root';
+$cfg['Servers'][$i]['password'] = '';
+$cfg['Servers'][$i]['extension'] = 'mysqli';
+$cfg['Servers'][$i]['AllowNoPassword'] = true;
+$cfg['Lang'] = '';
+
+ceate empty database:
+database-1:	mcg_db 	(utf8mb4_general_ci)
+database-2:	laravel	(utf8mb4_general_ci)
+
+user: root 		(optional for demo)
+pass: <empty>	(optional for demo)
+</pre>
+
+<br>
 <br><span class="font-weight-bold">visit to: </span>
 <i>	
 <a href="https://www.hmgextended.com/download.html">https://www.hmgextended.com/download.html</a>
@@ -10,10 +36,12 @@
 </i>
 
 <pre>
-
+<br>
+<br>
 download Current version Harbour+MiniGUI
 --> hmg-25.06-setup.zip
 install at: c:\MiniGUI
+if exist c:\MiniGUI --> rename first to c:\MiniGUI-old
 
 download Borland C++ Compiler version 5.8
 --> bcc582.zip
@@ -30,6 +58,16 @@ run vscode or your favourit editor
 code .
 open new terminal
 compile.bat
+
+
+
+sample at: 
+c:\MiniGUI\SAMPLES\BASIC\MYSQL\
+
+other reference: 
+c:\MiniGUI\SAMPLES\BASIC\ADORDD_3\
+c:\MiniGUI\SAMPLES\Advanced\MiniSql\
+
 </pre>
 
 
