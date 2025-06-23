@@ -60,11 +60,11 @@ c:\git_repo\git clone https://github.com/yudhi-irawan/001-Harbour-MiniGUI-openCo
 c:\git_repo\cd 001-Harbour-MiniGUI-openConnection-TMySQLServer
 dir
 
-run vscode or your favourit editor
+run vscode or your favourite editor
 code .
 open new terminal
 compile.bat
-run demo.exe
+run demo1.exe
 
 
 other sample at: 
