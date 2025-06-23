@@ -3,7 +3,7 @@ function openConnection()
 *--------------------------------------------------------------*
 cHostName:= "localhost"
 cUser:= "root"
-cPassWord:= "1234"
+cPassWord:= ""
 cDataBase:= "mcg_db"
 
 oServer := TMySQLServer():New(cHostName, cUser, cPassWord )

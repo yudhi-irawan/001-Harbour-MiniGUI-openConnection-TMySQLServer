@@ -26,6 +26,15 @@ database-2:	laravel	(utf8mb4_general_ci)
 
 user: root 		(optional for demo)
 pass: <empty>	(optional for demo)
+
+Create table and insert data:
+-open phpmyadmin
+-select mcg_db database
+-click tab SQL
+-open with your editor file: tblAbsenceType.sql
+-copy and paste to phpmyadmin-SQL
+-click GO
+
 </pre>
 
 <br>
@@ -34,10 +43,7 @@ pass: <empty>	(optional for demo)
 <a href="https://www.hmgextended.com/download.html">https://www.hmgextended.com/download.html</a>
 <br>🌱🌱🌱<br>
 </i>
-
 <pre>
-<br>
-<br>
 download Current version Harbour+MiniGUI
 --> hmg-25.06-setup.zip
 install at: c:\MiniGUI
@@ -58,7 +64,7 @@ run vscode or your favourit editor
 code .
 open new terminal
 compile.bat
-
+run demo.exe
 
 
 sample at: 
@@ -78,3 +84,5 @@ c:\MiniGUI\SAMPLES\Advanced\MiniSql\
 
  👋 👀 🌱 💞️ 📫 
 
+
+<img src="assets/img/Screenshot-001.png" alt="" />
