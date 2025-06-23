@@ -21,8 +21,8 @@ $cfg['Servers'][$i]['AllowNoPassword'] = true;
 $cfg['Lang'] = '';
 
 ceate empty database:
-database-1:	mcg_db (utf8mb4_general_ci)
-database-2:	laravel (utf8mb4_general_ci)
+database-1: mcg_db (utf8mb4_general_ci)
+database-2: laravel (utf8mb4_general_ci)
 
 user: root (optional for demo)
 pass: <empty> (optional for demo)
